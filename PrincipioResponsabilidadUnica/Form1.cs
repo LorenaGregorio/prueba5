@@ -14,6 +14,10 @@ namespace PrincipioResponsabilidadUnica
     {
 
 
+
+
+
+
         public Form1()
         {
             InitializeComponent();
